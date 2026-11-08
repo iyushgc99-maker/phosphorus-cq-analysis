@@ -1,4 +1,6 @@
-# phosphorus-cq-analysis
+# phosphorus-cq-analysis This project includes modifications to the existing BACH workflow originally developed by Simon Woodward, DairyNZ.
+
+The code has been adapted for total phosphorus (TP), electrical conductivity (EC), and discharge data from U.S. streams. Changes include file paths, input structure, parameter settings, and output handling.
 R workflow for analyzing phosphorus concentration-discharge relationships in streams
 # Phosphorus C-Q Analysis
 
